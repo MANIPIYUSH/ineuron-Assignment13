@@ -1,0 +1,142 @@
+
+.toparea{
+
+    background-color: #543495;
+    height:100%vh;width: 950px;
+}
+
+.navbar {
+     
+      display: flex;
+      color: white;    
+}
+.navbar img{
+
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.item{
+
+   position: relative;
+   left: 100px;top: 40px;
+  margin-left: 30px;
+  
+}
+.items button{
+   
+   position: relative;
+   left: 190px;top: 37px;
+   border: none;
+   background-color: aqua;
+   padding: 5px;
+}
+.leftext{
+
+    margin-left: 40px;
+    margin-top: 80px;
+    color: #fff;
+}
+.rightimg img{
+
+     height: 400px;width: 700px;
+     margin-left: 340px;margin-top: -300px;
+
+}
+.leftsideimg{
+
+    height: 200px;width: 500px;margin-top: 50px;
+}
+.rightsidetext{
+
+     margin-left: 650px;
+     font-size: 10px;
+     margin-top: -120px;
+
+
+}
+.point h6{
+    font-weight: lighter;
+    
+}
+.point{
+    line-height: 5px;
+}
+.part3{
+    display: flex;
+    margin-left: -300px;
+    margin-top: 260px;
+    gap: 60px;
+}
+.textbottom h1
+{
+ margin-left: 660px;
+ margin-top: -100px;
+
+}
+.boxx{
+    display: flex;
+    height:30px;width: 40px;
+  margin-left: -600px;
+  gap: 150px;margin-top: 20px;
+  line-height: 16px;
+  /* box-shadow: 2px 2px 2px 1px rgba(0, 0, 255, .2); */
+ 
+}
+.boxx h6{
+    font-size: 6px;line-height: 7px;
+}
+.boxx h2{
+
+    font-size: 12PX;line-height: 8PX;
+}
+.box1{
+     
+    position: relative;
+    height: 100px;
+    width:130px;
+    border-color: transparent;
+    box-shadow: 0px 5px 15px  #000;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.box2{
+    height: 130px;
+  width: 180px;
+    border-color: transparent;
+    box-shadow: 0px 5px 15px  #000;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.box3{
+    height: 130px;
+  width: 60px;
+    border-color: transparent;
+    box-shadow: 0px 5px 15px  #000;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.box4{
+    height: 130px;
+    width: 60px;
+      border-color: transparent;
+      box-shadow: 0px 5px 15px  #000;
+      padding: 20px;
+      border-radius: 10px;
+  
+    /* box-shadow: 0px 5px 15px  #000; */
+}
+
+    
+/* .pitg {
+    background-color: #6c44ba;
+    color: #fff;width: 90px;
+} */
+.boxx img{
+
+    height: 20px;width: 20px;
+
+
+}
