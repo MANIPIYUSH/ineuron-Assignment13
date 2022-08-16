@@ -140,3 +140,47 @@
 
 
 }
+
+
+@media screen and (max-width: 480px) {
+    
+    .navbar{
+        display: flex;
+        flex-direction: column;
+    }
+    .navbar img{
+
+        margin-left: 40px;
+        margin-top: 30px;
+        height: 10px;width: 20px;
+    }
+    .rightimg img{
+
+        height: 300px;width: 400px;
+        margin-left: 10px;margin-top: 50px;
+   
+   }
+   
+   .leftsideimg{
+
+    height: 100px;width: 250px;margin-top: 50px;
+}
+.rightsidetext{
+
+     margin-left: 50px;
+     font-size: 10px;
+     margin-top: 140px;color: #543495;
+}
+.boxx{
+
+    display: flex;
+    flex-direction: column;
+    /* margin-left: 100px; */
+}
+.part3.textbottom 
+{
+ margin-left: -150px;
+ margin-top: -100px;color: #543495;
+
+}
+  }
